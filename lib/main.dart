@@ -24,5 +24,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-// Monke ahh boi oioioritkgoritko
